@@ -18,7 +18,7 @@
 
 ## 聯繫方式
 如有任何問題或建議，請通過以下方式聯繫我：
-- 郵箱：pinhsiuwang@gmail.com
+- Email：pinhsiuwang@gmail.com
 - LinkedIn：https://www.linkedin.com/in/pin-hsiu-wang/
 
 ## 致謝
